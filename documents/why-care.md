@@ -1,6 +1,7 @@
 ---
 layout: article
-title: why care
+title: Why care about digital rights
 ---
 
-testing
+Share this site!
+{:.info}
