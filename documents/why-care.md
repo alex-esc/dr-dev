@@ -18,7 +18,7 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 <p>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Movies, music & other media</a>
+<a class="button button--secondary button--pill button--xl" href="../documents/why-care/more-info/0branches">Movies, music & other media</a>
 
 <a class="button button--secondary button--pill button--xl" href="LINK">Smartphones, electric carts & other tech</a>
 
@@ -47,21 +47,19 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 **Pick a topic and learn how it relates to digital rights:**
 
-* [Movies, music & other media]()
-* [Smartphones, electric carts & other tech]()
-* [Creativity, art & innovation]()
-* [Education and easy access to information]()
-* [Social media & free speech]()
-* [Our impact on the environment]()
-* [Morality, ethics and Human rights]()
-* [Privacy & security]()
-* [Saving money]()
+* [Movies, music & other media](../documents/why-care/media)
+* [Smartphones, electric carts & other tech](../documents/why-care/tech)
+* [Creativity, art & innovation](../documents/why-care/creativity)
+* [Education and easy access to information](../documents/why-care/education-information)
+* [Social media & free speech](../documents/why-care/social-media-free-speech)
+* [Our impact on the environment](../documents/why-care/environment)
+* [Morality, ethics and Human rights](../documents/why-care/human-rights)
+* [Privacy & security](../documents/why-care/privacy-security)
+* [Saving money](../documents/why-care/saving-money)
 
 
 -->
 
-
-[RELATIVE LINK](../documents/why-care/creativity)
 
 
 Share this site!
