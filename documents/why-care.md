@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Why care about digital rights?
-mode: immersive
 ---
 
 Digital Rights are becoming more and more related with everyday life, this is an explanation that covers several topics but you can choose the path that most interests you.
@@ -11,14 +10,14 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 
 
-<div class="hero hero--center hero--dark" style="background-color: #123;">
+<div class="hero hero--overlay hero--center hero--dark" style="background-color: #123;">
   <div class="hero__content">
 
   
   
 
 
-<h1>What interests you the most?</h1>
+<h2>What interests you the most?</h2>
     <p>Pick a topic and learn how it relates to digital rights:</p>
 
 
