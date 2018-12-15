@@ -54,7 +54,7 @@ right-to-repair
 surveillance
 tor
 
-* [0branches](../documents/why-care/more-info/0branches)
+* [0branches](/documents/why-care/more-info/0branches)
 * [advertisements](../documents/why-care/more-info/advertisements)
 * [artificial-intelligence](../documents/why-care/more-info/artificial-intelligence)
 * [censorship](../documents/why-care/more-info/censorship)
