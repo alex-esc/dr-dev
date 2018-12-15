@@ -1,6 +1,6 @@
 ---
 layout: article
-title: doc test
+title: why care
 ---
 
-test
+testing
