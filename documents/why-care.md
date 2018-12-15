@@ -9,7 +9,7 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 # What interests you the most?
 
-[BUTTON](https://old.reddit.com/){:.button.button--secondary.button--pill}
+[BUTTON](https://old.reddit.com/){:.button.button--secondary.button--pill.button--xl}
 
 
 Share this site!
