@@ -10,21 +10,14 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 
 
-<div class="hero hero--overlay hero--center hero--dark" style="background-color: #123;">
+<div class="hero hero--center hero--dark" style="background-color: #123;">
   <div class="hero__content">
-
-  
-  
-
 
 <h2>What interests you the most?</h2>
     <p>Pick a topic and learn how it relates to digital rights:</p>
 
-
-	
 <p>
-	
-	
+
 <a class="button button--secondary button--pill button--xl" href="LINK">Movies, music & other media</a>
 
 <a class="button button--secondary button--pill button--xl" href="LINK">Smartphones, electric carts & other tech</a>
@@ -43,15 +36,16 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 <a class="button button--secondary button--pill button--xl" href="LINK">Saving money</a>
 
-
 </p>
-	
+
   </div>
 </div>
 
 <!--
 
 # What interests you the most?
+
+**Pick a topic and learn how it relates to digital rights:**
 
 * [Movies, music & other media]()
 * [Smartphones, electric carts & other tech]()
@@ -65,6 +59,9 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 
 -->
+
+
+[RELATIVE LINK](../why-care/creativity.md)
 
 
 Share this site!
