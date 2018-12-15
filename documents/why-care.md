@@ -61,7 +61,7 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 -->
 
 
-[RELATIVE LINK](../why-care/creativity.md)
+[RELATIVE LINK](../why-care/creativity.html)
 
 
 Share this site!
