@@ -18,7 +18,7 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 <p>
 
-<a class="button button--secondary button--pill button--xl" href="../documents/why-care/more-info/0branches">Movies, music & other media</a>
+<a class="button button--secondary button--pill button--xl" href="../why-care/media">Movies, music & other media</a>
 
 <a class="button button--secondary button--pill button--xl" href="LINK">Smartphones, electric carts & other tech</a>
 
