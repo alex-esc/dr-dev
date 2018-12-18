@@ -66,9 +66,13 @@ To contribute to our site you must take a few thing in mind:
 
 > These rules will be referred to as _Base Rules_ from here onwards. feel free to skip to the section that best applies to your contribution or question.
 
+---
+
 ### Why not modify the main repository?
 
 Our website is hosted here on GitHub, to publish our site we have one main filter: _this repository_, this repo is a fork of our website, we use this reop to make several changes and when we're done we push the changes to the main repo all at once. Therefore the name of this repository is short for _Digital Rights developer_ (dr-dev).
+
+---
 
 ### Report a bug / fix a bug
 
@@ -76,11 +80,15 @@ If you found a bug, please report it by opening an issue, remember to be very de
 
 To fix a bug follow the base rules and look up any other section on this document that applies.
 
+---
+
 ### Correct content currently live on the website: Grammar, fact checking, add or update citations.
 
 If your correction is quick and easy to fix, please consider helping us fix it by following the base rules and forking this repository and adding your correction and creating a pull request.
 
 If you are not interested in fixing it yourself please open an issue on this repository, remember to be very descriptive with your issue and take the base rules in mind.
+
+---
 
 ### Publish Literature: Article or blog.
 
@@ -110,6 +118,7 @@ Make sure to read our theme's documentation,it will solve 90% of all questions, 
 
 Any further questions can be solved by opening an issue on this repository or by sending us an e-mail.
 
+---
 
 ### Publish Media: Video, info-graphic, podcast etc...
 
@@ -140,7 +149,7 @@ The next list of recommendations is not necessary to get your work approved, but
 * Promote you content after it's publication to maximize it's reach and our message.
 * Once you finish publishing your work keep tabs with us! We greatly appreciate contributors and we strive to build a community, maybe you can be involved inf future projects too!
 
-
+---
 
 ### How to make sure your contribution is compatible with the website's light version
 
@@ -205,6 +214,7 @@ This is a requirement, because when the light version is pushed live all embedde
 
 * **Step 6 :** Follow our base rules.
 
+---
 
 ### What license to choose
 
@@ -225,6 +235,7 @@ If you choose to do so and you already wrote your post using Markdown and you ne
 
 For any other related questions please contact us via e-mail.
 
+---
 
 #### Brief explanation of both licenses
 
@@ -268,6 +279,8 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 > Explanation provided by tldr legal,  DISCLAIMER: THIS IS ONLY A SHORT SUMMARY OF THE FULL TEXT. NO INFORMATION ON TLDRLEGAL IS LEGAL ADVICE.
 
+---
+
 ##### GNU General Public License V3
 
 You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
@@ -284,20 +297,26 @@ You may copy, distribute and modify the software as long as you track changes/da
 
 > Explanation provided by tldr legal,  DISCLAIMER: THIS IS ONLY A SHORT SUMMARY OF THE FULL TEXT. NO INFORMATION ON TLDRLEGAL IS LEGAL ADVICE.
 
-
+---
 
 
 ### Propose new iconography: Logo, icons or general branding of the site
 
 All general design related contributions  and discussion (except for CSS changes) takes place in our [general design repository](https://github.com/digital-rights/general-design).
 
+---
+
 ### Propose a new post on social media / propose new social media presence
 
 Send us an e-mail and explain the post you want to contribute or new site you want us to join.
 
+---
+
 ### Edit our book
 
 Our book and our site are stored on different locations, to contribute to our book please go to the original repository, located [here](https://github.com/alex-esc/digitalrights).
+
+---
 
 ### Change the look and feel of our site: Change theme, style-sheet, fix visual bugs.
 
@@ -320,6 +339,7 @@ If you find a better fitting jekyll theme or you created your own you can fork t
 Ether open an issue addressing the bug or fork this repo and push the bug fix and add yourself to the thank you page.
 
 
+---
 
 
 # Join our organization
@@ -339,4 +359,6 @@ Ether open an issue addressing the bug or fork this repo and push the bug fix an
 
 [Facebook](https://digital-rights.github.io/facebook), [Twitter](https://digital-rights.github.io/twitter) & [YouTube](https://digital-rights.github.io/youtube).
 
+
+---
 
