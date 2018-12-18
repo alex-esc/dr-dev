@@ -25,6 +25,27 @@ If this project looks interesting, you might want to be a part of the change: Yo
 # Table of contents:
 
 
+* [Contact Information](#contact-information)
+    * [Email](#email)
+    * [Social media](#social-media)
+* [How to contribute to our website](#how-to-contribute-to-our-website)
+    * [Why not modify the main repository?](#why-not-modify-the-main-repository?)
+    * [Report a bug / fix a bug](#report-a-bug--fix-a-bug)
+    * [Correct content currently live on the website: Grammar, fact checking, add or update citations.](#correct-content-currently-live-on-the-website-grammar-fact-checking-add-or-update-citations)
+    * [Publish Literature: Article or blog.](#publish-literature-article-or-blog)
+    * [Publish Media: Video, info-graphic, podcast etc...](#publish-media-video-infographic-podcast-etc)
+    * [How to make sure your contribution is compatible with the website's light version](#how-to-make-sure-your-contribution-is-compatible-with-the-website's-light-version)
+    * [What license to choose](#what-license-to-choose)
+        * [Brief explanation of both licenses](#brief-explanation-of-both-licenses)
+            * [Creative Commons Attribution-ShareAlike](#creative-commons-attributionsharealike)
+            * [GNU General Public License V3](#gnu-general-public-license-v3)
+    * [Propose new iconography: Logo, icons or general branding of the site](#propose-new-iconography-logo-icons-or-general-branding-of-the-site)
+    * [Propose a new post on social media / propose new social media presence](#propose-a-new-post-on-social-media--propose-new-social-media-presence)
+    * [Edit our book](#edit-our-book)
+    * [Change the look and feel of our site: Change theme, style-sheet, fix visual bugs.](#change-the-look-and-feel-of-our-site-change-theme-stylesheet-fix-visual-bugs)
+
+
+
 
 
 ---
