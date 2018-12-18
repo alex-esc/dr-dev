@@ -43,7 +43,7 @@ If this project looks interesting, you might want to be a part of the change: Yo
     * [Propose a new post on social media / propose new social media presence](#propose-a-new-post-on-social-media--propose-new-social-media-presence)
     * [Edit our book](#edit-our-book)
     * [Change the look and feel of our site: Change theme, style-sheet, fix visual bugs.](#change-the-look-and-feel-of-our-site-change-theme-stylesheet-fix-visual-bugs)
-
+* [Join our organization](#Join-our-organization)
 
 
 
