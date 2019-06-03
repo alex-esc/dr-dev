@@ -22,7 +22,7 @@ People behind a screen also have inherent rights, we aim to spread awareness and
 
 
 
-<div class="hero hero--dark" style="background-color: #123;">
+<div class="hero hero--dark" style="background-color: #123; mode= immersive">
   <div class="hero__content">
     <h3>Hero</h3>
   </div>
