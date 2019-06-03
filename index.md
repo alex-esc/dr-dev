@@ -14,6 +14,16 @@ article_header:
 ---
 
 
+<div class="mx-0">
+
+<div class="hero hero--dark" style="background-color: #123;">
+  <div class="hero__content">
+    <h3>Hero</h3>
+  </div>
+</div>
+
+</div>
+
 <div class="card">
   <div class="card__content">
     <div class="card__header">
