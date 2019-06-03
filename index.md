@@ -14,6 +14,36 @@ article_header:
 ---
 
 
+<div class="card">
+  <div class="card__content">
+    <div class="card__header">
+      <h4>Photograph</h4>
+    </div>
+    <p>...</p>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card__content">
+    <div class="card__header">
+      <h4>Photograph</h4>
+    </div>
+    <p>...</p>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card__content">
+    <div class="card__header">
+      <h4>Photograph</h4>
+    </div>
+    <p>...</p>
+  </div>
+</div>
+
+
 # Usernames are people too
 
 **Do human rights apply on the Internet? We believe so!**
@@ -21,12 +51,6 @@ article_header:
 People behind a screen also have inherent rights, we aim to spread awareness and speak up against human rights abuse in the digital age, an injustice is an injustice, no mater the medium.
 
 
-
-<div class="hero hero--dark" style="background-color: #123; mode= immersive">
-  <div class="hero__content">
-    <h3>Hero</h3>
-  </div>
-</div>
 
 
 ## Issues
