@@ -14,6 +14,20 @@ article_header:
 ---
 
 
+
+
+
+<div class="grid-container">
+  <div class="grid grid--p-3">
+    <div class="cell cell--6"><div>6 cells</div></div>
+    <div class="cell cell--6"><div>6 cells</div></div>
+    <div class="cell cell--6"><div>6 cells</div></div>
+    <div class="cell cell--6"><div>6 cells</div></div>
+  </div>
+</div>
+
+
+
 <div class="px-0">
 
 <div class="hero hero--dark" style="background-color: #123;">
