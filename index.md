@@ -20,6 +20,15 @@ article_header:
  
 People behind a screen also have inherent rights, we aim to spread awareness and speak up against human rights abuse in the digital age, an injustice is an injustice, no mater the medium.
 
+
+
+<div class="hero hero--dark" style="background-color: #123;">
+  <div class="hero__content">
+    <h3>Hero</h3>
+  </div>
+</div>
+
+
 ## Issues
 
 Today's society has made gigantic leaps thanks to technology, but without realizing we also created a monster: We divide our social world thanks to social media bubbles, created monopolies that shape a lifestyle that will further pollute and contaminate our planet, made a generation of screen addicts, killed personal privacy and we even toy with democracy and truth itself.
