@@ -14,7 +14,7 @@ article_header:
 ---
 
 
-<div class="mx-0">
+<div class="px-0">
 
 <div class="hero hero--dark" style="background-color: #123;">
   <div class="hero__content">
