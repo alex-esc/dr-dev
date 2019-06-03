@@ -55,7 +55,7 @@ If this project looks interesting, you might want to be a part of the change: Yo
 To contribute to our site you must take a few thing in mind:
 
 
-* All changes and contributions must be done on _this repository_ and **never on the main repo**, to contibute you must fork this repository and make a pull request when you are ready to publish.
+* All changes and contributions must be done on [_this repository_][dr-dev] and **never on the main repo**, to contibute you must fork this repository and make a pull request when you are ready to publish.
 * Familiarize yourself with our work, read our blog or contact us for guidance.
 * We use Markdown to format all of our written content, please familiarize with GitHub flavored Markdown, you can find a [tutorial here](https://commonmark.org/help/tutorial/). 
 * Our website has a light version, all contributions must be compatible with both versions, learn more about how to adapt your content to the light version.
@@ -63,6 +63,9 @@ To contribute to our site you must take a few thing in mind:
 * Transparency and openness are our main values, all contributions must be published under applicable free culture licenses and the source files must be public as well.
 * Be civil, remember the human and don't forget to communicate with us via e-mail if you have any questions.
 * Follow the rules above **otherwise your contributions won't be added**.
+
+
+[dr-dev]: https://github.com/alex-esc/dr-dev
 
 > These rules will be referred to as _Base Rules_ from here onwards. feel free to skip to the section that best applies to your contribution or question.
 

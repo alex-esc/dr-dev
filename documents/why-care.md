@@ -20,21 +20,21 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 <a class="button button--secondary button--pill button--xl" href="why-care/media">Movies, music & other media</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Smartphones, electric carts & other tech</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/tech">Smartphones, electric carts & other tech</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Creativity, art & innovation</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/creativity">Creativity, art & innovation</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Education and easy access to information</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/education-information">Education and easy access to information</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Social media & free speech</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/social-media-free-speech">Social media & free speech</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Our impact on the environment</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/environment">Our impact on the environment</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Morality, ethics and Human rights</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/human-rights">Morality, ethics and Human rights</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Privacy & security</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/privacy-security">Privacy & security</a>
 
-<a class="button button--secondary button--pill button--xl" href="LINK">Saving money</a>
+<a class="button button--secondary button--pill button--xl" href="why-care/saving-money">Saving money</a>
 
 </p>
 
@@ -47,18 +47,28 @@ To start off choose a topic that you feel very passionate bout and we'll explain
 
 **Pick a topic and learn how it relates to digital rights:**
 
-* [Movies, music & other media](../documents/why-care/media)
-* [Smartphones, electric carts & other tech](../documents/why-care/tech)
-* [Creativity, art & innovation](../documents/why-care/creativity)
-* [Education and easy access to information](../documents/why-care/education-information)
-* [Social media & free speech](../documents/why-care/social-media-free-speech)
-* [Our impact on the environment](../documents/why-care/environment)
-* [Morality, ethics and Human rights](../documents/why-care/human-rights)
-* [Privacy & security](../documents/why-care/privacy-security)
-* [Saving money](../documents/why-care/saving-money)
+* [Movies, music & other media](why-care/media)
+* [Smartphones, electric carts & other tech](why-care/tech)
+* [Creativity, art & innovation](why-care/creativity)
+* [Education and easy access to information](why-care/education-information)
+* [Social media & free speech](why-care/social-media-free-speech)
+* [Our impact on the environment](why-care/environment)
+* [Morality, ethics and Human rights](why-care/human-rights)
+* [Privacy & security](why-care/privacy-security)
+* [Saving money](why-care/saving-money)
+
+
 
 
 -->
+
+
+
+
+---
+
+## Jump straight to the big issues
+
 
 
 
